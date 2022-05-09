@@ -1,5 +1,5 @@
 <script>
-  const OBS_WEBSOCKET_LATEST_VERSION = '4.8.0'; // https://api.github.com/repos/Palakis/obs-websocket/releases/latest
+  const OBS_WEBSOCKET_LATEST_VERSION = '4.9.0';
 
   // Imports
   import { onMount } from 'svelte';
