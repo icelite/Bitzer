@@ -471,7 +471,7 @@
       </div>
       <p class="help">
         Make sure that the
-        <a href="https://github.com/Palakis/obs-websocket/releases" target="_blank">obs-websocket plugin</a>
+        <a href="https://bitzer-web.ravennj.repl.co/" target="_blank">Bitzer Websocket plugin</a>
         is installed and enabled.
       </p>
     {/if}
