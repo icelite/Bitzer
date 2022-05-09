@@ -296,14 +296,13 @@
 </script>
 
 <svelte:head>
-  <title>OBS-web - control OBS from anywhere</title>
+  <title>Bitzer</title>
 </svelte:head>
 
 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item is-size-4 has-text-weight-bold" href="/">
-      <img src="favicon.png" alt="OBS-web" class="rotate" />
-      &nbsp; OBS-web
+      &nbsp; Bitzer
     </a>
 
     <!-- svelte-ignore a11y-missing-attribute -->
@@ -442,7 +441,7 @@
     {:else}
       <h1 class="subtitle">
         Welcome to
-        <strong>OBS-web</strong>
+        <strong>Bitzer</strong>
         - the easiest way to control
         <a href="https://obsproject.com/" target="_blank">OBS</a>
         remotely!
@@ -456,13 +455,7 @@
           <a href="https://ngrok.com/">ngrok</a>
           or
           <a href="https://pagekite.net/">pagekite</a>
-          . If you want to connect to a local OBS instance,
-          <strong>
-            <a href="http://{document.location.hostname}{document.location.port ? ':' + document.location.port : ''}{document.location.pathname}">
-              please click here to load the non-secure version of this page
-            </a>
-          </strong>
-          .
+          ..
         </div>
       {/if}
 
@@ -490,12 +483,9 @@
 <footer class="footer">
   <div class="content has-text-centered">
     <p>
-      <strong>OBS-web</strong>
+      <strong>Bitzer</strong>
       by
-      <a href="https://niekvandermaas.nl/">Niek van der Maas</a>
-      &mdash; see
-      <a href="https://github.com/Niek/obs-web">GitHub</a>
-      for source code.
+      <a href="#">Bitzer, LLC.</a>
     </p>
   </div>
 </footer>
