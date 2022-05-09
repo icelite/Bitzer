@@ -454,8 +454,7 @@
           connect to WSS (secure websocket) hosts, for example OBS exposed with
           <a href="https://ngrok.com/">ngrok</a>
           or
-          <a href="https://pagekite.net/">pagekite</a>
-          ..
+          <a href="https://pagekite.net/">pagekite</a> may not work.
         </div>
       {/if}
 
