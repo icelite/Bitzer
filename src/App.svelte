@@ -302,7 +302,7 @@
 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item is-size-4 has-text-weight-bold" href="/">
-      &nbsp; Bitzer
+      Bitzer
     </a>
 
     <!-- svelte-ignore a11y-missing-attribute -->
