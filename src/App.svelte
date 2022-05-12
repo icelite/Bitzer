@@ -471,7 +471,7 @@
       </div>
       <p class="help">
         Make sure that the
-        <a href="https://bitzer-web.ravennj.repl.co/" target="_blank">Bitzer Websocket plugin</a>
+        <a href="https://bitzer-web.raven52.repl.co/" target="_blank">Bitzer Websocket plugin</a>
         is installed and enabled.
       </p>
     {/if}
