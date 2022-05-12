@@ -484,7 +484,7 @@
     <p>
       <strong>Bitzer</strong>
       by
-      <a href="#">Bitzer, LLC.</a>
+      <a href="https://icelite.net/">Icelite, Inc.</a>
     </p>
   </div>
 </footer>
