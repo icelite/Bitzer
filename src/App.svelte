@@ -301,7 +301,8 @@
 
 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item is-size-4 has-text-weight-bold" href="/">
+     <a class="navbar-item is-size-4 has-text-weight-bold" href="/">
+      <img src="LOGO.PNG" alt="OBS-web" class="rotate" />
       &nbsp; Bitzer
     </a>
 
