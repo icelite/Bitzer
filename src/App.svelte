@@ -485,7 +485,7 @@
     <p>
       <strong>Bitzer</strong>
       by
-      <a href="https://icelite.net/">Icelite, Inc.</a>
+      <a href="https://jschultz.vercel.app/">Jackson Schultz</a>
     </p>
   </div>
 </footer>
